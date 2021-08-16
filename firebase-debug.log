@@ -1,0 +1,68 @@
+[debug] [2021-08-14T21:39:20.476Z] ----------------------------------------------------------------------
+[debug] [2021-08-14T21:39:20.478Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\facun\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2021-08-14T21:39:20.478Z] CLI Version:   9.16.5
+[debug] [2021-08-14T21:39:20.478Z] Platform:      win32
+[debug] [2021-08-14T21:39:20.478Z] Node Version:  v14.17.0
+[debug] [2021-08-14T21:39:20.479Z] Time:          Sat Aug 14 2021 18:39:20 GMT-0300 (Argentina Standard Time)
+[debug] [2021-08-14T21:39:20.479Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-14T21:39:20.485Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-14T21:39:20.485Z] > authorizing via signed-in user (facundobrusa11@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\xampp\htdocs\ReactJS\producthunt-nextjs
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[debug] [2021-08-14T22:12:51.141Z] ----------------------------------------------------------------------
+[debug] [2021-08-14T22:12:51.143Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\facun\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2021-08-14T22:12:51.144Z] CLI Version:   9.16.5
+[debug] [2021-08-14T22:12:51.144Z] Platform:      win32
+[debug] [2021-08-14T22:12:51.144Z] Node Version:  v14.17.0
+[debug] [2021-08-14T22:12:51.145Z] Time:          Sat Aug 14 2021 19:12:51 GMT-0300 (Argentina Standard Time)
+[debug] [2021-08-14T22:12:51.145Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-14T22:12:51.153Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-14T22:12:51.153Z] > authorizing via signed-in user (facundobrusa11@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\xampp\htdocs\ReactJS\producthunt-nextjs
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2021-08-14T22:13:33.928Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2021-08-14T22:13:35.101Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2021-08-14T22:13:35.101Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project product-hunt-15ddf (Product Hunt) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
